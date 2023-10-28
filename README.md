@@ -1,5 +1,6 @@
 # Cypress
 This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
+Continue for add new Scenario authentication & chart page from: https://github.com/alvintrianto/Cypress-typescript
 
 ## Running Tests
 
